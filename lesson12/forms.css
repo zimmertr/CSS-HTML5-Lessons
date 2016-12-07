@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.content section legend {
+	font-size: 110%;
+	font-weight: bold;
+	color: #090;
+}
+.content section fieldset {
+	padding: 5px;
+	border: 2px solid #090;
+}

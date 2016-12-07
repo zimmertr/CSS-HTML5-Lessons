@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<head>
+<title>CSS Descendant Theory</title>
+<style type="text/css">
+<!--
+h1 { font-family: Verdana; color: blue; } 
+div h1 { font-family: Impact; color: red; } 
+div.product h1 { font-family: Times; color: green; } 
+-->
+</style></head>
+<body>
+<h1>I stand alone</h1>
+<div><h1>I'm in a DIV tag</h1><h1>I stand alone</h1></div>
+<div class="product"><h1>Hi, I'm in a <em>classy</em> DIV tag</h1><h1>I stand alone</h1></div>
+</body>
+</html>
