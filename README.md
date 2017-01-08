@@ -6,4 +6,4 @@ The repository is comprised of many lessons. Each of which is held within it's o
 
 As you progress through the book, you continue building at a website as you learn the various concept of HTML, CSS, and other web development frameworks. The final product looks like this:
 
-![Alt text](https://raw.githubusercontent.com/zimmertr/CSS-HTML5-Lessons/master/final.png "Final website")
+![Alt text](https://raw.githubusercontent.com/zimmertr/CSS-HTML5-Lessons/master/website.png "Final website")
